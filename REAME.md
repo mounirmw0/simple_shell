@@ -1,1 +1,3 @@
-Welcome
+We (Danimoh D. & Mounir S.) appriciate you checking out this project.
+This project intended to test the ability of those who have gone through the other project or task of African Leadership Xperience -ALX.
+(For those who is writting the same project for same reason)Follow-up and analys to understand but don't copy to paste...
